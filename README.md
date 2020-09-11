@@ -1,5 +1,5 @@
 # Fit143 Challenge
-![](https://github.com/ObinnaIheanachor/fit143/blob/master/images/fit%20143%20gif.gif)
+![](https://github.com/ObinnaIheanachor/fit143/blob/master/images/gif.gif)
 
 This repository contains data files for my Fit 143 challenge (143 days of tracking workout routine data which would be used to create data dashboards).
 This challenge was initiated by [Kate Strachnyi](https://www.linkedin.com/in/kate-strachnyi-data/) and I joined in on August 11th.
